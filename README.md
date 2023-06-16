@@ -1,1 +1,2 @@
 # AI_Based_Personal_Virtual_Assistant
+A virtual assistant is an intelligent software application or program that uses artificial intelligence (AI) and natural language processing (NLP) techniques to understand and respond to user commands and queries. It is designed to simulate a conversation or interaction with a human assistant, providing assistance, information, and performing tasks based on user input.
